@@ -9,6 +9,16 @@
   "categories": [
     "Other"
   ],
+  "publisher": "leaveloper",
+  "author": {
+    "name": "Leandro Juárez",
+    "email": "leangj7@gmail.com",
+    "url": "https://github.com/leaveloper"
+  },
+  "repository": {
+    "url": "https://github.com/leaveloper/Base-Screen-Component",
+    "type": "git"
+  },
   "activationEvents": [],
   "main": "./extension.js",
   "contributes": {
